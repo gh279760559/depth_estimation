@@ -8,6 +8,7 @@ learning/
 __pycache__/
 *.zip
 *.npy
+*.npz
 FCRN-DepthPrediction/tensorflow/pre_trained/NYU_FCRN-checkpoint
 dnl-depthnormals/weights
 depth/weights
