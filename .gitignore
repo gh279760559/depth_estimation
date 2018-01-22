@@ -1,0 +1,13 @@
+
+*.mat
+*.png
+*.jpg
+data/
+learning/
+*.ply
+__pycache__/
+*.zip
+*.npy
+FCRN-DepthPrediction/tensorflow/pre_trained/NYU_FCRN-checkpoint
+dnl-depthnormals/weights
+depth/weights
